@@ -1,0 +1,36 @@
+Repo 4: volunteer-data-analytics-program
+Purpose: This is your differentiator.
+Include:
+Program syllabus (Markdown or PDF)
+Sample datasets
+Example learner project
+Teaching notes
+This tells NGOs and recruiters:
+“This person builds systems, not just analyses.”
+
+
+# Project Title
+
+## Overview
+Brief description of the business or social problem this project addresses.
+
+## Objective
+What question the analysis aims to answer and why it matters.
+
+## Tools Used
+SQL | Power BI | Excel | Python (only what you actually used)
+
+## Dataset
+Short description of the dataset and any cleaning steps applied.
+
+## Approach
+High-level steps taken in the analysis (no code dump).
+
+## Key Insights
+3–5 bullet points explaining what was discovered.
+
+## Outcome / Recommendation
+What decision or action this analysis supports.
+
+## Screenshots / Outputs
+(Charts, dashboards, or result previews)
